@@ -1,6 +1,6 @@
-# 🏆 Rastreador de Platinas (Trophy Tracker)
+# 🏆 Trophy Tracker
 
-Bem-vindo ao **Rastreador de Platinas**! Este é um projeto em Python desenvolvido para auxiliar jogadores a gerenciar seu progresso em busca da completude total (100% ou "Platina") de seus jogos favoritos.
+Bem-vindo ao **Trophy Tracker**! Este é um projeto em Python desenvolvido para auxiliar jogadores a gerenciar seu progresso em busca da completude total (100% ou "Platina") de seus jogos favoritos.
 
 O sistema permite marcar conquistas realizadas, salvar o progresso automaticamente e calcular exatamente quais troféus ainda faltam para finalizar o jogo.
 
